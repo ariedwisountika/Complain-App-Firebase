@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "503600493807",
+      "firebase_url": "https://lombaqubisa-2258f-default-rtdb.firebaseio.com",
+      "project_id": "lombaqubisa-2258f",
+      "storage_bucket": "lombaqubisa-2258f.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:503600493807:android:6ddcd3017c0adc9421571a",
+          "android_client_info": {
+            "package_name": "com.example.myapplication"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "503600493807-uq4mauf8bgfit2dan7pakea89lntkevk.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCVDI3EYy2NZo3GZWtCEpHx_5dIVinbOFc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "503600493807-uq4mauf8bgfit2dan7pakea89lntkevk.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
